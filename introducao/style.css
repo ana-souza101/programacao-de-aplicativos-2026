@@ -1,0 +1,35 @@
+body{
+    background: linear-gradient(lightblue, #40849b, rgb(42, 109, 131));
+    color: white;
+    text-align: center;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 35px;
+}
+
+input{
+    width: 200px;
+    height: 30px;
+}
+
+button{
+    background-color: rgb(142, 204, 224);
+    border-radius: 15px;
+    border-color: aqua;
+    height: 40px;
+    width: 150px;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    border: 10px;
+    border-color: rgb(132, 174, 189);
+}
+
+html {
+    min-height: 100%;
+}
